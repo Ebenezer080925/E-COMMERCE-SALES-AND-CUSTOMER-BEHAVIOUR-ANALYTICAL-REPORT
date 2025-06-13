@@ -294,6 +294,12 @@ inventory adjustments.
 By focusing on high-value customer segments, reducing churn, and enhancing conversion
 funnels, the business can unlock sustained revenue growth and customer loyalty.
 
+## Socials
+[linkedin (http://www.linkedin.com/in/ebenezer-d-18675027a)]
+
+[Github (https://github.com/Ebenezer080925)]
+
+
 
 
 
