@@ -1,5 +1,6 @@
 # E-COMMERCE-SALES-AND-CUSTOMER-BEHAVIOUR-ANALYTICAL-REPORT
 The report is an e-commerce sales Dashboards which gives which show full analysis of the sales trend by each customers and given predictions about the companies growth 
+E-commerce test.pbit is the pbit file where you can download and drill down the data 
 
        # BACKGROUND IMAGE ON IS ON IS WAY
        
